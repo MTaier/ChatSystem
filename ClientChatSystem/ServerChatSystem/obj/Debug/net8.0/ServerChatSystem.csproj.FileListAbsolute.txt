@@ -1,0 +1,14 @@
+C:\Users\marci\OneDrive\Documentos\Projects\Projetos Pessoas\C#\ClientChatSystem\ServerChatSystem\bin\Debug\net8.0\ServerChatSystem.exe
+C:\Users\marci\OneDrive\Documentos\Projects\Projetos Pessoas\C#\ClientChatSystem\ServerChatSystem\bin\Debug\net8.0\ServerChatSystem.deps.json
+C:\Users\marci\OneDrive\Documentos\Projects\Projetos Pessoas\C#\ClientChatSystem\ServerChatSystem\bin\Debug\net8.0\ServerChatSystem.runtimeconfig.json
+C:\Users\marci\OneDrive\Documentos\Projects\Projetos Pessoas\C#\ClientChatSystem\ServerChatSystem\bin\Debug\net8.0\ServerChatSystem.dll
+C:\Users\marci\OneDrive\Documentos\Projects\Projetos Pessoas\C#\ClientChatSystem\ServerChatSystem\bin\Debug\net8.0\ServerChatSystem.pdb
+C:\Users\marci\OneDrive\Documentos\Projects\Projetos Pessoas\C#\ClientChatSystem\ServerChatSystem\obj\Debug\net8.0\ServerChatSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marci\OneDrive\Documentos\Projects\Projetos Pessoas\C#\ClientChatSystem\ServerChatSystem\obj\Debug\net8.0\ServerChatSystem.AssemblyInfoInputs.cache
+C:\Users\marci\OneDrive\Documentos\Projects\Projetos Pessoas\C#\ClientChatSystem\ServerChatSystem\obj\Debug\net8.0\ServerChatSystem.AssemblyInfo.cs
+C:\Users\marci\OneDrive\Documentos\Projects\Projetos Pessoas\C#\ClientChatSystem\ServerChatSystem\obj\Debug\net8.0\ServerChatSystem.csproj.CoreCompileInputs.cache
+C:\Users\marci\OneDrive\Documentos\Projects\Projetos Pessoas\C#\ClientChatSystem\ServerChatSystem\obj\Debug\net8.0\ServerChatSystem.dll
+C:\Users\marci\OneDrive\Documentos\Projects\Projetos Pessoas\C#\ClientChatSystem\ServerChatSystem\obj\Debug\net8.0\refint\ServerChatSystem.dll
+C:\Users\marci\OneDrive\Documentos\Projects\Projetos Pessoas\C#\ClientChatSystem\ServerChatSystem\obj\Debug\net8.0\ServerChatSystem.pdb
+C:\Users\marci\OneDrive\Documentos\Projects\Projetos Pessoas\C#\ClientChatSystem\ServerChatSystem\obj\Debug\net8.0\ServerChatSystem.genruntimeconfig.cache
+C:\Users\marci\OneDrive\Documentos\Projects\Projetos Pessoas\C#\ClientChatSystem\ServerChatSystem\obj\Debug\net8.0\ref\ServerChatSystem.dll
